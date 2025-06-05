@@ -5,4 +5,5 @@ Allowed only from 6/16(Monday) to 6/20(Friday).
 3. 전복 고리수 예측(abalone.csv)
 4. 광고비로 매출액 예측(advertising.csv)
 5. 자전거 대여 수요 예측(bike.csv)
-6. 
+6. 000지역 집값 예측
+7. 
