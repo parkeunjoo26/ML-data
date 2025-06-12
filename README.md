@@ -8,4 +8,4 @@ Allowed only from 6/16(Monday) to 6/20(Friday).
 6. 000지역 집값 예측(housing.csv)
 7. 날씨 분류(weather.zip)
 8. 손글씨 분류(HandWritten.zip)
-9. 천재133p_아삭함,당도로 과일,단백질,채소인식(fruit.csv)
+9. 아삭함,당도로 과일,단백질,채소인식(fruit.csv)
